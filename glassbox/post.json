@@ -1,0 +1,126 @@
+{
+  "slug": "cheeseclear",
+  "box": 117,
+  "question": "How is cheese made?",
+  "url": "https://glassbox.how/e/cheeseclear/",
+  "app": "https://glassbox.how/cheeseclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "Seven thousand years from clay sieves on a Polish plain to enzymes brewed in steel tanks.\n\n5200 BCE: Clay sieves strain the first known curds\n1600 BCE: The oldest cheese that still exists\n65: A Roman writes down the recipe\n1411: Roquefort gets a royal monopoly\n1650: Bandel cheese in Bengal\n1851: The first American cheese factory\n\nThe full story, with 30 moments, sources and charts: glassbox.how/e/cheeseclear/history (link in bio)\n\nThen play with how it works: glassbox.how/cheeseclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #cheese #rennet #casein #milk #dairy #fermentation #history",
+      "youtube": {
+        "title": "The history of cheese in 45 seconds #shorts",
+        "description": "Seven thousand years from clay sieves on a Polish plain to enzymes brewed in steel tanks.\n\n5200 BCE · Clay sieves strain the first known curds (Early farmers of the Linear Pottery culture)\n1600 BCE · The oldest cheese that still exists (People of the Xiaohe cemetery)\n65 · A Roman writes down the recipe (Columella)\n1411 · Roquefort gets a royal monopoly (Charles VI of France)\n1650 · Bandel cheese in Bengal (Portuguese settlers and their Mog (Burmese) cooks)\n1851 · The first American cheese factory (Jesse Williams)\n\n▶ Full history: https://glassbox.how/e/cheeseclear/history/\n▶ Play with it: https://glassbox.how/e/cheeseclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "How is cheese made?\n\nCheese is milk with nine-tenths of it taken away. Watch one enzyme snip the hairy coat off the milk's protein, cut and cook the curd, press it, salt it, and age it in a cave until bacteria blow the holes.\n\n→ Milk is 87% water. Cheese keeps the protein and fat and lets the water go.\n→ Ten litres of milk make about one kilogram of hard cheese.\n→ Rennet's enzyme, chymosin, cuts the hairy coat off every casein micelle.\n→ Bald micelles link up with calcium, and the whole vat sets into curd.\n→ Cutting lets the whey out. Small cubes cooked hot make hard cheese, and big cubes make soft cheese.\n\nPlay with it yourself. It's free and open source: glassbox.how/cheeseclear (link in bio)\n\nBox No. 117 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #cheese #rennet #casein #milk #dairy #fermentation #foodscience #chemistry #threejs",
+    "carousel": "Swipe through: How is cheese made?\n\nCheese is milk with nine-tenths of it taken away. Watch one enzyme snip the hairy coat off the milk's protein, cut and cook the curd, press it, salt it, and age it in a cave until bacteria blow the holes.\n\nSave this for later, then play with the interactive version at glassbox.how/cheeseclear (link in bio).\n\nBox No. 117 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #cheese #rennet #casein #milk #dairy #fermentation",
+    "youtube": {
+      "title": "How is cheese made? #shorts",
+      "description": "Cheese is milk with nine-tenths of it taken away. Watch one enzyme snip the hairy coat off the milk's protein, cut and cook the curd, press it, salt it, and age it in a cave until bacteria blow the holes.\n\n▶ Play with it: https://glassbox.how/e/cheeseclear/\n⌘ Source code (MIT): https://github.com/bdeeps/cheeseclear\n\nBox No. 117 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "How is cheese made? (interactive explainer)",
+      "description": "Cheese is milk with nine-tenths of it taken away. Watch one enzyme snip the hairy coat off the milk's protein, cut and cook the curd, press it, salt it, and age it in a cave until bacteria blow the holes.\n\n▶ Play with the interactive version: https://glassbox.how/e/cheeseclear/\n⌘ Source code (MIT): https://github.com/bdeeps/cheeseclear\n\nIn this video:\n• Milk, minus the water. Milk is about 87% water carrying fat, casein protein, lactose and a little whey protein.\n• Rennet cuts the hairs. Casein lives in tiny balls called micelles, each coated with kappa-casein hairs that keep them apart.\n• Cut, cook and drain. Cutting the curd opens doors for the whey.\n• Press and salt. Pressing knits loose curd into one solid block.\n• Flavour is made in the cave. A young cheese is bland and rubbery.\n• One family, many cousins. How much water is left and how long it ages place every cheese on one map.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "How is cheese made?\n\nCheese is milk with nine-tenths of it taken away.\n\nPlay with it: https://glassbox.how/e/cheeseclear/",
+    "linkedin": "How is cheese made?\n\nCheese is milk with nine-tenths of it taken away. Watch one enzyme snip the hairy coat off the milk's protein, cut and cook the curd, press it, salt it, and age it in a cave until bacteria blow the holes.\n\n1. Milk, minus the water\n2. Rennet cuts the hairs\n3. Cut, cook and drain\n4. Press and salt\n5. Flavour is made in the cave\n6. One family, many cousins\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. 117 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox.how/e/cheeseclear/\nCode: https://github.com/bdeeps/cheeseclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-10-02T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-10-02T06:45:56.847Z"
+}

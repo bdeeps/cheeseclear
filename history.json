@@ -1,0 +1,909 @@
+{
+  "title": "The history of cheese",
+  "tagline": "Seven thousand years from clay sieves on a Polish plain to enzymes brewed in steel tanks.",
+  "intro": "Early farmers found that sour or curdled milk, drained of its whey, kept for longer and was easier on the stomach. Greeks and Romans wrote down how to use rennet, press and salt. Medieval monks and mountain villages shaped the cheeses we still name. Then factories, microscopes and pasteurisation made cheese an industry, India learned to make it from buffalo milk, and the enzyme that starts it all moved from calf stomachs to fermentation tanks.",
+  "eras": [
+    {
+      "id": "herders",
+      "name": "Herders and sieves",
+      "from": -5500,
+      "to": -800,
+      "color": "#c49bff",
+      "summary": "Early farmers cannot digest fresh milk well. Turning it into curd and cheese removes most of the lactose and lets milk be stored and carried."
+    },
+    {
+      "id": "classical",
+      "name": "Rennet, presses and monasteries",
+      "from": -800,
+      "to": 1500,
+      "color": "#ffb547",
+      "summary": "Greek and Roman writers describe rennet, moulds, pressing and salting. In the Middle Ages monasteries and mountain villages give Europe many of its named cheeses."
+    },
+    {
+      "id": "named",
+      "name": "Named cheeses travel",
+      "from": 1500,
+      "to": 1850,
+      "color": "#5ce1a9",
+      "summary": "Cheeses pick up names, rules and reputations, and cheesemaking travels with traders and missionaries as far as Bengal."
+    },
+    {
+      "id": "factory",
+      "name": "Factories and microbes",
+      "from": 1850,
+      "to": 1950,
+      "color": "#8ef0ff",
+      "summary": "Pooled milk, standard rennet, pure cultures and pasteurisation turn a farmhouse craft into an industry, and processed cheese is invented."
+    },
+    {
+      "id": "modern",
+      "name": "Biotech, labels and old pots",
+      "from": 1950,
+      "to": 2026,
+      "color": "#f59ee6",
+      "summary": "India starts making cheese from buffalo milk, rennet moves from calves to fermentation tanks, names get legal protection, and chemistry reads cheese in ancient pottery."
+    }
+  ],
+  "events": [
+    {
+      "year": -5200,
+      "date": "6th millennium BCE",
+      "era": "herders",
+      "art": "plate",
+      "title": "Clay sieves strain the first known curds",
+      "who": "Early farmers of the Linear Pottery culture",
+      "where": "Kuyavia, Poland",
+      "country": "Poland",
+      "text": "Farmers in Kuyavia, in what is now Poland, made pots full of small holes about 7,000 years ago. In 2012 chemists found milk fat soaked into the clay, which shows the pots were used to strain curd from whey. It is the earliest direct evidence of cheesemaking.",
+      "why": "Cheese let people who could not digest fresh milk keep and eat it, because most of the lactose drains away in the whey.",
+      "box": "milk",
+      "sources": [
+        0,
+        1
+      ],
+      "key": true
+    },
+    {
+      "year": -5200,
+      "date": "c. 5200 BCE",
+      "era": "herders",
+      "art": "flask",
+      "title": "Fermented dairy on the Dalmatian coast",
+      "who": "Neolithic villagers",
+      "where": "Pokrovnik and Danilo Bitinj, Croatia",
+      "country": "Croatia",
+      "text": "Fat residues in pottery from two villages on the Dalmatian coast point to fermented dairy products, soft cheeses and yoghurts, about 7,200 years ago. Plain milk residues at the same sites are some 500 years older still.",
+      "why": "It shows cheesemaking beside the Mediterranean at about the same time as in northern Europe.",
+      "box": "",
+      "sources": [
+        2,
+        1
+      ]
+    },
+    {
+      "year": -2000,
+      "date": "c. 2000 BCE",
+      "era": "herders",
+      "art": "scroll",
+      "title": "Cheese in the account books of Ur",
+      "who": "Sumerian scribes",
+      "where": "Ur, Mesopotamia (Iraq)",
+      "country": "Iraq",
+      "text": "Clay tablets from the Third Dynasty of Ur record deliveries of cheese alongside butter and milk. They are among the oldest written mentions of cheese.",
+      "why": "Cheese was already an everyday, counted and traded food.",
+      "box": "",
+      "sources": [
+        1
+      ]
+    },
+    {
+      "year": -1600,
+      "date": "c. 1600 BCE",
+      "era": "herders",
+      "art": "person",
+      "title": "The oldest cheese that still exists",
+      "who": "People of the Xiaohe cemetery",
+      "where": "Tarim Basin, Xinjiang, China",
+      "country": "China",
+      "text": "Lumps of cheese were laid on the necks and chests of people buried in the desert about 3,600 years ago. In 2024 scientists read DNA from them and found it was kefir cheese, made with bacteria and yeasts like those in kefir grains today.",
+      "why": "It is the oldest preserved cheese known, and it carries the oldest known cheese microbes.",
+      "box": "ripen",
+      "sources": [
+        3,
+        1
+      ],
+      "key": true
+    },
+    {
+      "year": -1250,
+      "date": "13th century BCE",
+      "era": "herders",
+      "art": "flask",
+      "title": "A jar of cheese in an Egyptian tomb",
+      "who": "Buried with Ptahmes, mayor of Memphis",
+      "where": "Saqqara, Egypt",
+      "country": "Egypt",
+      "text": "A broken jar in the tomb of Ptahmes held a whitish mass. In 2018 chemists showed it was a solid cheese made from cow milk mixed with sheep or goat milk. It is about 3,200 years old.",
+      "why": "It is the oldest solid cheese found in Egypt, identified by its proteins.",
+      "box": "",
+      "sources": [
+        4,
+        1
+      ]
+    },
+    {
+      "year": -700,
+      "date": "late 8th century BCE",
+      "era": "classical",
+      "art": "boat",
+      "title": "A giant makes cheese in the Odyssey",
+      "who": "Homer",
+      "where": "Greece",
+      "country": "Greece",
+      "text": "In the Odyssey, the Cyclops Polyphemus milks his sheep and goats, curdles half the milk and sets the curd in woven baskets to drain. The scene is one of the oldest descriptions of cheesemaking in literature.",
+      "why": "It shows the same steps as today: curdle, drain, shape.",
+      "box": "",
+      "sources": [
+        1
+      ]
+    },
+    {
+      "year": 65,
+      "date": "c. 65 CE",
+      "era": "classical",
+      "art": "quill",
+      "title": "A Roman writes down the recipe",
+      "who": "Columella",
+      "where": "Roman Empire (Italy)",
+      "country": "Italy",
+      "text": "In his farming book De Re Rustica, Columella describes clotting milk with rennet from a lamb or kid, pressing the curd under weights, salting it and hardening it. About a decade later Pliny the Elder lists the cheeses Romans liked best.",
+      "why": "Rennet, pressing, salting and ageing were all in use by Roman times.",
+      "box": "rennet",
+      "sources": [
+        1,
+        26
+      ],
+      "key": true
+    },
+    {
+      "year": 962,
+      "date": "962 (as often reported)",
+      "era": "classical",
+      "art": "building",
+      "title": "Monks make Maroilles",
+      "who": "A monk of the Abbey of Maroilles (traditional account)",
+      "where": "Maroilles, France",
+      "country": "France",
+      "text": "Maroilles, a soft cheese with a washed orange rind, is often said to have first been made in 962 by a monk at the Abbey of Maroilles. The date rests on tradition, but monasteries really were centres of cheesemaking in medieval Europe.",
+      "why": "Monasteries had cellars, time and written rules, which suited the slow work of ripening.",
+      "box": "",
+      "sources": [
+        5
+      ]
+    },
+    {
+      "year": 1170,
+      "date": "1170",
+      "era": "classical",
+      "art": "scales",
+      "title": "A king buys five tonnes of Cheddar",
+      "who": "Henry II of England",
+      "where": "Somerset, England",
+      "country": "United Kingdom",
+      "text": "The royal accounts, called the Pipe Rolls, record that King Henry II bought 10,240 pounds of Cheddar cheese at a farthing a pound.",
+      "why": "It is the earliest record of Cheddar, now one of the most made cheeses in the world.",
+      "box": "press",
+      "sources": [
+        6
+      ]
+    },
+    {
+      "year": 1254,
+      "date": "1254",
+      "era": "classical",
+      "art": "scroll",
+      "title": "Parmesan appears in writing",
+      "who": "Notaries in northern Italy",
+      "where": "Parma and Reggio Emilia region, Italy",
+      "country": "Italy",
+      "text": "The earliest written record of Parmesan dates from 1254. By 1348 Boccaccio could joke in the Decameron about a mountain made of grated Parmesan.",
+      "why": "A hard, long-keeping cheese could be traded across a continent.",
+      "box": "family",
+      "sources": [
+        7
+      ]
+    },
+    {
+      "year": 1411,
+      "date": "4 June 1411",
+      "era": "classical",
+      "art": "mountain",
+      "title": "Roquefort gets a royal monopoly",
+      "who": "Charles VI of France",
+      "where": "Roquefort-sur-Soulzon, France",
+      "country": "France",
+      "text": "King Charles VI gave the people of Roquefort-sur-Soulzon the sole right to ripen the blue ewe-milk cheese in their limestone caves.",
+      "why": "It is an early case of the law tying a cheese's name to one place.",
+      "box": "ripen",
+      "sources": [
+        8
+      ],
+      "key": true
+    },
+    {
+      "year": 1570,
+      "date": "1570",
+      "era": "named",
+      "art": "word",
+      "title": "The word mozzarella is printed",
+      "who": "Bartolomeo Scappi",
+      "where": "Rome, Italy",
+      "country": "Italy",
+      "text": "The papal cook Bartolomeo Scappi lists fresh mozzarella in his cookbook, the first time the word appears in print. Water buffalo, which probably reached Italy from Asia centuries earlier, gave the rich milk.",
+      "why": "Stretched-curd cheese from buffalo milk became one of the world's favourites.",
+      "box": "family",
+      "sources": [
+        9
+      ]
+    },
+    {
+      "year": 1650,
+      "date": "16th or 17th century",
+      "era": "named",
+      "art": "flame",
+      "title": "Bandel cheese in Bengal",
+      "who": "Portuguese settlers and their Mog (Burmese) cooks",
+      "where": "Bandel, Bengal, India",
+      "country": "India",
+      "text": "At the Portuguese settlement of Bandel on the Hooghly river, milk was curdled with lemon juice, drained in small baskets, salted and often smoked. The exact date is not recorded. A handful of families in West Bengal still make it.",
+      "why": "It is one of the few cheeses born in India, and a cousin of the chhena behind Bengal's sweets.",
+      "box": "family",
+      "sources": [
+        10,
+        40
+      ],
+      "key": true
+    },
+    {
+      "year": 1791,
+      "date": "1791 (as reported)",
+      "era": "named",
+      "art": "person",
+      "title": "Marie Harel and Camembert",
+      "who": "Marie Harel",
+      "where": "Camembert, Normandy, France",
+      "country": "France",
+      "text": "Camembert is said to have first been made in 1791 by Marie Harel, a farmer in Normandy. Historians think the cheese we know owes more to late nineteenth-century dairies, and to the round wooden box invented in 1890 that let it travel.",
+      "why": "The story made a soft, white-moulded cheese a symbol of France.",
+      "box": "",
+      "sources": [
+        11
+      ]
+    },
+    {
+      "year": 1815,
+      "date": "1815",
+      "era": "named",
+      "art": "building",
+      "title": "The first valley cheese dairy",
+      "who": "Rudolf Emanuel von Effinger",
+      "where": "Kiesen, canton of Bern, Switzerland",
+      "country": "Switzerland",
+      "text": "Until then Swiss cheese was made in summer on the high Alpine pastures. In 1815 a dairy was built on an estate in the valley village of Kiesen, taking milk from farms around it all year round.",
+      "why": "Many small farms sharing one dairy is the idea behind every cheese factory and cooperative.",
+      "box": "",
+      "sources": [
+        12,
+        1
+      ]
+    },
+    {
+      "year": 1851,
+      "date": "1851",
+      "era": "factory",
+      "art": "gear",
+      "title": "The first American cheese factory",
+      "who": "Jesse Williams",
+      "where": "Rome, New York, USA",
+      "country": "United States",
+      "text": "Jesse Williams, a farmer known for good cheese, began buying milk from his neighbours and making it all into cheese in one building. The factory was soon turning out well over 25,000 pounds a year, and the idea spread quickly across New York State.",
+      "why": "Cheese moved from the farmhouse kitchen to the factory.",
+      "box": "cut",
+      "sources": [
+        13,
+        14,
+        1
+      ],
+      "key": true
+    },
+    {
+      "year": 1856,
+      "date": "c. 1856",
+      "era": "factory",
+      "art": "thermometer",
+      "title": "Cheddar by the thermometer",
+      "who": "Joseph Harding",
+      "where": "Marksbury, Somerset, England",
+      "country": "United Kingdom",
+      "text": "Joseph Harding and his family worked out a fixed method for Cheddar: clean dairies, measured temperatures, a set order of steps and a revolving cutter for the curd. They taught it in Scotland, and visitors carried it to America and Australia.",
+      "why": "A recipe ruled by measurement could be repeated anywhere.",
+      "box": "press",
+      "sources": [
+        15,
+        6
+      ]
+    },
+    {
+      "year": 1864,
+      "date": "1864",
+      "era": "factory",
+      "art": "flame",
+      "title": "Pasteur's gentle heating",
+      "who": "Louis Pasteur",
+      "where": "Arbois, France",
+      "country": "France",
+      "text": "Louis Pasteur showed that warming wine to about 50 to 60 °C killed the microbes that spoiled it. In 1886 Franz von Soxhlet proposed doing the same to milk. Dairies now pasteurise most cheese milk at about 72 °C for 15 seconds.",
+      "why": "Safe milk that still clots made large-scale cheesemaking dependable.",
+      "box": "rennet",
+      "sources": [
+        16
+      ]
+    },
+    {
+      "year": 1874,
+      "date": "1874",
+      "era": "factory",
+      "art": "flask",
+      "title": "Rennet in a bottle",
+      "who": "Christian D. A. Hansen",
+      "where": "Copenhagen, Denmark",
+      "country": "Denmark",
+      "text": "The Danish chemist Christian Hansen set up a laboratory to make a clean rennet extract of known strength from calf stomachs. Cheesemakers no longer had to soak dried stomachs themselves. By 1878 the firm was working in the United States.",
+      "why": "A measured dose of rennet gives the same clotting time every day.",
+      "box": "rennet",
+      "sources": [
+        17,
+        26
+      ],
+      "key": true
+    },
+    {
+      "year": 1906,
+      "date": "1906",
+      "era": "factory",
+      "art": "cell",
+      "title": "The microbes get names",
+      "who": "Eduard von Freudenreich, Sigurd Orla-Jensen and Charles Thom",
+      "where": "Bern, Switzerland and Connecticut, USA",
+      "country": "Switzerland",
+      "text": "In Switzerland, von Freudenreich and Orla-Jensen showed that propionic acid bacteria in Emmental turn lactate into propionic acid, acetic acid and carbon dioxide, the gas that blows the holes. The same year the American Charles Thom described the moulds Penicillium camemberti and Penicillium roqueforti.",
+      "why": "Once the microbes were known they could be grown as pure cultures and added on purpose.",
+      "box": "ripen",
+      "sources": [
+        18,
+        19
+      ],
+      "key": true
+    },
+    {
+      "year": 1911,
+      "date": "1911",
+      "era": "factory",
+      "art": "burner",
+      "title": "Processed cheese is invented",
+      "who": "Walter Gerber and Fritz Stettler",
+      "where": "Thun, Switzerland",
+      "country": "Switzerland",
+      "text": "Looking for a cheese that would keep in warm countries, Gerber and Stettler melted Emmentaler with sodium citrate. The salt bound the calcium, and the melted cheese stayed smooth instead of turning oily.",
+      "why": "Emulsifying salts are still what make processed cheese melt evenly.",
+      "box": "family",
+      "sources": [
+        20
+      ]
+    },
+    {
+      "year": 1916,
+      "date": "6 June 1916",
+      "era": "factory",
+      "art": "plug",
+      "title": "Kraft patents cheese that keeps",
+      "who": "James L. Kraft",
+      "where": "Chicago, USA",
+      "country": "United States",
+      "text": "James L. Kraft received US patent 1,186,524 for heating and stirring cheese so that it could be sealed in tins and keep without spoiling. Tinned cheese fed armies in the First World War.",
+      "why": "Cheese became a packaged, branded food sold far from any dairy.",
+      "box": "family",
+      "sources": [
+        20
+      ],
+      "key": true
+    },
+    {
+      "year": 1925,
+      "date": "1925",
+      "era": "factory",
+      "art": "trophy",
+      "title": "Roquefort is the first protected name",
+      "who": "French parliament",
+      "where": "France",
+      "country": "France",
+      "text": "Roquefort became the first cheese with a French appellation d'origine, a law saying what it must be made from and where it must be ripened.",
+      "why": "Later systems for protecting food names copied this model.",
+      "box": "",
+      "sources": [
+        8
+      ]
+    },
+    {
+      "year": 1955,
+      "date": "1950s",
+      "era": "modern",
+      "art": "mountain",
+      "title": "A Swiss priest makes cheese in Kalimpong",
+      "who": "Father André Butty",
+      "where": "Kalimpong, West Bengal, India",
+      "country": "India",
+      "text": "A Swiss Jesuit, Father André Butty, set up the Swiss Welfare Dairy in the hill town of Kalimpong in the 1950s to support a mission orphanage, and began making a Gouda-style wheel. The dairy closed around 1990, but local families still make Kalimpong cheese.",
+      "why": "It became one of India's best-known ripened cheeses.",
+      "box": "ripen",
+      "sources": [
+        21,
+        22
+      ]
+    },
+    {
+      "year": 1959,
+      "date": "c. 1958–59",
+      "era": "modern",
+      "art": "drum",
+      "title": "Amul makes cheese from buffalo milk",
+      "who": "Kaira District Co-operative Milk Producers' Union (Amul)",
+      "where": "Anand, Gujarat, India",
+      "country": "India",
+      "text": "Most Indian milk came from buffaloes, and experts abroad doubted it could be made into Cheddar-style cheese. The farmers' cooperative at Anand added a cheese plant in the late 1950s and sold processed cheese under the Amul name, reported as the first large-scale cheese from buffalo milk. Accounts give 1958 or 1959.",
+      "why": "It showed that cheese could be made at scale from the milk India actually had.",
+      "box": "milk",
+      "sources": [
+        24,
+        23
+      ],
+      "key": true
+    },
+    {
+      "year": 1978,
+      "date": "1978",
+      "era": "modern",
+      "art": "scales",
+      "title": "A world standard for cheese",
+      "who": "Codex Alimentarius Commission (FAO and WHO)",
+      "where": "Rome, Italy",
+      "country": "Italy",
+      "text": "The Codex General Standard for Cheese set out what may be called cheese and how to describe it as soft, firm, hard or extra hard by its moisture. National rules, including India's, build on it.",
+      "why": "Shared definitions let cheese be traded and labelled the same way across borders.",
+      "box": "family",
+      "sources": [
+        25,
+        34
+      ]
+    },
+    {
+      "year": 1990,
+      "date": "March 1990",
+      "era": "modern",
+      "art": "molecule",
+      "title": "Rennet from a fermentation tank",
+      "who": "US Food and Drug Administration; Pfizer",
+      "where": "Washington DC, USA",
+      "country": "United States",
+      "text": "Calf rennet was running short. Scientists put the calf's chymosin gene into microbes, which then made the same enzyme in a tank. In 1990 the FDA accepted it as safe, the first food ingredient made by genetic engineering to be approved. It now clots most of the world's cheese.",
+      "why": "Cheese no longer depends on calf stomachs, which matters to vegetarians and in India.",
+      "box": "rennet",
+      "sources": [
+        27,
+        26
+      ],
+      "key": true
+    },
+    {
+      "year": 1992,
+      "date": "1992",
+      "era": "modern",
+      "art": "earth",
+      "title": "Europe protects cheese names",
+      "who": "European Community",
+      "where": "Brussels, Belgium",
+      "country": "Belgium",
+      "text": "A European law of 1992 created protected designations of origin for foods. Roquefort, Parmigiano Reggiano, feta and Stilton may now carry their names only if made in their home region by the set method.",
+      "why": "A name on a cheese became a legal promise about place and method.",
+      "box": "",
+      "sources": [
+        28,
+        7
+      ]
+    },
+    {
+      "year": 2015,
+      "date": "2015",
+      "era": "modern",
+      "art": "leaf",
+      "title": "Hay dust seeds the holes",
+      "who": "Agroscope researchers",
+      "where": "Bern, Switzerland",
+      "country": "Switzerland",
+      "text": "Swiss scientists reported that the eyes in Emmental start on microscopic specks of hay in the milk, where the carbon dioxide can gather into a bubble. Cleaner modern milking had been giving cheeses with fewer and smaller holes.",
+      "why": "It explained why the holes had been shrinking for years.",
+      "box": "ripen",
+      "sources": [
+        29,
+        30
+      ]
+    },
+    {
+      "year": 2023,
+      "date": "October 2023",
+      "era": "modern",
+      "art": "mountain",
+      "title": "GI tags for yak churpi and kaladi",
+      "who": "Geographical Indications Registry of India",
+      "where": "Arunachal Pradesh and Udhampur, India",
+      "country": "India",
+      "text": "Arunachal Pradesh Yak Churpi, made by Brokpa herders from the milk of the Arunachali yak, received a geographical indication tag. So did Udhampur's kaladi (kalari), the stretched, pan-seared cheese of Jammu.",
+      "why": "India's own cheeses gained the same kind of name protection as Roquefort.",
+      "box": "family",
+      "sources": [
+        31,
+        32,
+        33
+      ],
+      "key": true
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Earliest direct evidence of cheesemaking",
+      "value": "6th millennium BCE",
+      "who": "Pottery sieves, Kuyavia, Poland"
+    },
+    {
+      "label": "Oldest preserved cheese",
+      "value": "c. 1600 BCE",
+      "who": "Xiaohe cemetery, Xinjiang, China"
+    },
+    {
+      "label": "Earliest record of Cheddar",
+      "value": "1170",
+      "who": "Pipe Rolls of Henry II, England"
+    },
+    {
+      "label": "First valley cheese dairy",
+      "value": "1815",
+      "who": "Kiesen, Switzerland"
+    },
+    {
+      "label": "First American cheese factory",
+      "value": "1851",
+      "who": "Jesse Williams, Rome, New York"
+    },
+    {
+      "label": "Standard rennet extract",
+      "value": "1874",
+      "who": "Christian Hansen, Copenhagen"
+    },
+    {
+      "label": "Processed cheese",
+      "value": "1911",
+      "who": "Walter Gerber and Fritz Stettler, Switzerland"
+    },
+    {
+      "label": "First protected cheese name in France",
+      "value": "1925",
+      "who": "Roquefort"
+    },
+    {
+      "label": "Fermentation-produced chymosin accepted",
+      "value": "1990",
+      "who": "US Food and Drug Administration"
+    }
+  ],
+  "people": [
+    {
+      "name": "Columella",
+      "life": "c. 4 – c. 70 CE",
+      "role": "Roman farmer and writer",
+      "from": "Roman Empire (born in Gades, Spain)",
+      "note": "His farming manual gives one of the first full recipes for rennet cheese."
+    },
+    {
+      "name": "Marie Harel",
+      "life": "1761 – 1844",
+      "role": "Farmer and cheesemaker",
+      "from": "France",
+      "note": "Credited by tradition with the first Camembert in 1791."
+    },
+    {
+      "name": "Jesse Williams",
+      "life": "1798 – 1864",
+      "role": "Farmer and cheesemaker",
+      "from": "USA",
+      "note": "Pooled his neighbours' milk in 1851 and started the cheese factory system."
+    },
+    {
+      "name": "Joseph Harding",
+      "life": "1805 – 1876",
+      "role": "Dairy farmer",
+      "from": "England",
+      "note": "Called the father of Cheddar for his measured, hygienic method."
+    },
+    {
+      "name": "Louis Pasteur",
+      "life": "1822 – 1895",
+      "role": "Chemist and microbiologist",
+      "from": "France",
+      "note": "Showed that gentle heat stops microbes spoiling food and drink."
+    },
+    {
+      "name": "Christian D. A. Hansen",
+      "life": "1843 – 1916",
+      "role": "Chemist",
+      "from": "Denmark",
+      "note": "Made the first standard rennet extract and founded the firm Chr. Hansen in 1874."
+    },
+    {
+      "name": "Sigurd Orla-Jensen",
+      "life": "1870 – 1949",
+      "role": "Dairy bacteriologist",
+      "from": "Denmark",
+      "note": "Worked out, with Eduard von Freudenreich, how propionic bacteria make the holes in Emmental."
+    },
+    {
+      "name": "Charles Thom",
+      "life": "1872 – 1956",
+      "role": "Mycologist",
+      "from": "USA",
+      "note": "Described and named the moulds of Camembert and Roquefort in 1906."
+    },
+    {
+      "name": "Walter Gerber",
+      "life": "active 1911",
+      "role": "Cheese merchant",
+      "from": "Switzerland",
+      "note": "Invented processed cheese with Fritz Stettler in 1911."
+    },
+    {
+      "name": "James L. Kraft",
+      "life": "1874 – 1953",
+      "role": "Entrepreneur",
+      "from": "Canada and USA",
+      "note": "Patented a way to make cheese keep in tins in 1916."
+    },
+    {
+      "name": "Verghese Kurien",
+      "life": "1921 – 2012",
+      "role": "Dairy engineer",
+      "from": "India",
+      "note": "Led the Anand cooperative that made cheese and milk powder from buffalo milk."
+    },
+    {
+      "name": "Father André Butty",
+      "life": "20th century",
+      "role": "Jesuit priest and dairyman",
+      "from": "Switzerland and India",
+      "note": "Started the Swiss Welfare Dairy and Kalimpong cheese in the 1950s."
+    }
+  ],
+  "series": [],
+  "facts": [
+    "It takes about 10 litres of cow milk to make 1 kg of hard cheese. About nine-tenths of the milk leaves as whey.",
+    "The holes in Emmental are bubbles of carbon dioxide made by bacteria, and each bubble starts on a speck of hay dust.",
+    "The enzyme in rennet cuts just one bond in one milk protein, between amino acids 105 and 106 of kappa-casein.",
+    "A wheel of Parmigiano Reggiano weighs about 38 kg, floats in brine for 20 to 25 days and is aged for at least a year.",
+    "Long-aged cheeses such as Parmesan and mature Cheddar contain almost no lactose, because bacteria use it up in the first weeks."
+  ],
+  "sources": [
+    {
+      "title": "Chemical analysis of sieve vessels reveals first cheese making in Northern Europe in the 6th millennium BC",
+      "publisher": "University of Bristol",
+      "url": "https://www.bristol.ac.uk/news/2012/9008.html"
+    },
+    {
+      "title": "History of cheese",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/History_of_cheese"
+    },
+    {
+      "title": "Evidence of 7,200-year-old cheese making found on the Dalmatian Coast",
+      "publisher": "Penn State University",
+      "url": "https://news.psu.edu/story/534928/2018/09/05/research/evidence-7200-year-old-cheese-making-found-dalmatian-coast"
+    },
+    {
+      "title": "The world's oldest cheese was buried in a Chinese tomb 3,600 years ago. Now, scientists have sequenced its DNA",
+      "publisher": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/smart-news/the-worlds-oldest-cheese-was-buried-in-a-chinese-tomb-3600-years-ago-now-scientists-have-sequenced-its-dna-180985152"
+    },
+    {
+      "title": "Oldest cheese (solid cheese residue, tomb of Ptahmes)",
+      "publisher": "Guinness World Records",
+      "url": "https://www.guinnessworldrecords.com/world-records/538955-oldest-cheese"
+    },
+    {
+      "title": "Maroilles (cheese)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Maroilles_(cheese)"
+    },
+    {
+      "title": "Cheddar cheese",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cheddar_cheese"
+    },
+    {
+      "title": "Parmesan",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Parmesan"
+    },
+    {
+      "title": "Roquefort",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Roquefort"
+    },
+    {
+      "title": "Mozzarella",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mozzarella"
+    },
+    {
+      "title": "Bandel cheese",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bandel_cheese"
+    },
+    {
+      "title": "Camembert",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Camembert"
+    },
+    {
+      "title": "Kiesen",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kiesen"
+    },
+    {
+      "title": "Jesse Williams and the Cheese Factory",
+      "publisher": "Culture: the word on cheese",
+      "url": "https://culturecheesemag.com/cheese-iq/jesse-williams-cheese-factory/"
+    },
+    {
+      "title": "Jesse Williams cheese factory historical marker, Rome, New York",
+      "publisher": "The Historical Marker Database",
+      "url": "https://www.hmdb.org/m.asp?m=165460"
+    },
+    {
+      "title": "Joseph Harding",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Joseph_Harding"
+    },
+    {
+      "title": "Pasteurization",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pasteurization"
+    },
+    {
+      "title": "Chr. Hansen",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chr._Hansen"
+    },
+    {
+      "title": "Propionibacterium freudenreichii",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Propionibacterium_freudenreichii"
+    },
+    {
+      "title": "Penicillium camemberti",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Penicillium_camemberti"
+    },
+    {
+      "title": "Processed cheese",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Processed_cheese"
+    },
+    {
+      "title": "Kalimpong cheese",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kalimpong_cheese"
+    },
+    {
+      "title": "Hunting down Kalimpong cheese and bringing it home",
+      "publisher": "Civil Society magazine",
+      "url": "https://www.civilsocietyonline.com/lifestyle/hunting-down-kalimpong-cheese-and-bringing-it-home"
+    },
+    {
+      "title": "Amul",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Amul"
+    },
+    {
+      "title": "The utterly butterly delicious story of Amul",
+      "publisher": "YourStory",
+      "url": "https://yourstory.com/2016/09/the-story-behind-amul/"
+    },
+    {
+      "title": "General Standard for Cheese (CXS 283-1978)",
+      "publisher": "Codex Alimentarius, FAO and WHO",
+      "url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/"
+    },
+    {
+      "title": "Rennet",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rennet"
+    },
+    {
+      "title": "Direct food substances affirmed as GRAS: chymosin enzyme preparation (Federal Register, 1993, recalling the 1990 rule)",
+      "publisher": "US Federal Register",
+      "url": "https://archives.federalregister.gov/issue_slice/1993/5/7/27197-27203.pdf"
+    },
+    {
+      "title": "Geographical indications and traditional specialities in the European Union",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Geographical_indications_and_traditional_specialities_in_the_European_Union"
+    },
+    {
+      "title": "Emmental cheese",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Emmental_cheese"
+    },
+    {
+      "title": "Swiss cheese (North America)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Swiss_cheese_(North_America)"
+    },
+    {
+      "title": "Arunachal's Yak Churpi, Khamti Rice and Tangsa Textile secure GI tags",
+      "publisher": "Border Lens",
+      "url": "https://www.borderlens.com/2023/10/11/arunachals-yak-churpi-khamti-rice-and-tangsa-textile-secure-gi-tags/"
+    },
+    {
+      "title": "Basohli Pashmina, Udhampur's Kaladi get GI tag",
+      "publisher": "Kashmir Life",
+      "url": "https://kashmirlife.net/basohli-pashmina-udhampurs-kaladi-get-gi-tag-329449/"
+    },
+    {
+      "title": "Chhurpi",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chhurpi"
+    },
+    {
+      "title": "Food Safety and Standards (Food Products Standards and Food Additives) Regulations, 2011",
+      "publisher": "Food Safety and Standards Authority of India",
+      "url": "https://www.fssai.gov.in/cms/food-safety-and-standards-regulations.php"
+    },
+    {
+      "title": "Extent of κ-casein hydrolysis during renneting of bovine milk: a critical assessment",
+      "publisher": "Food Science & Nutrition (2024), via PubMed Central",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10916671/"
+    },
+    {
+      "title": "Mozzarella cheese stretching: a review",
+      "publisher": "Food Technology and Biotechnology (2021), via PubMed Central",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8157083"
+    },
+    {
+      "title": "Cheese Making Technology e-book",
+      "publisher": "University of Guelph",
+      "url": "https://books.lib.uoguelph.ca/cheesemakingtechnologyebook/"
+    },
+    {
+      "title": "Cheese",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cheese"
+    },
+    {
+      "title": "Cheese yield",
+      "publisher": "CheeseScience.org",
+      "url": "https://www.cheesescience.org/yield.html"
+    },
+    {
+      "title": "Bandel Cheese: GI application no. 1561",
+      "publisher": "Geographical Indications Registry, Government of India",
+      "url": "https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/1561"
+    }
+  ]
+}

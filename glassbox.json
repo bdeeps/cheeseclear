@@ -1,0 +1,105 @@
+{
+  "slug": "cheeseclear",
+  "box": 117,
+  "date": "2026-10-07",
+  "title": "CheeseClear",
+  "question": "How is cheese made?",
+  "hook": "Cheese is milk with nine-tenths of it taken away. Watch one enzyme snip the hairy coat off the milk's protein, cut and cook the curd, press it, salt it, and age it in a cave until bacteria blow the holes.",
+  "thumbText": "HOW CHEESE IS MADE",
+  "field": "chemistry",
+  "minutes": 15,
+  "tags": [
+    "cheese",
+    "rennet",
+    "casein",
+    "milk",
+    "dairy",
+    "fermentation",
+    "food science",
+    "chemistry",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "Milk, minus the water",
+      "text": "Milk is about 87% water carrying fat, casein protein, lactose and a little whey protein. Cheese keeps the casein and fat and lets most of the water go. About 10 litres of cow milk make 1 kg of hard cheese. Four ingredients do it: milk, starter culture, rennet and salt."
+    },
+    {
+      "title": "Rennet cuts the hairs",
+      "text": "Casein lives in tiny balls called micelles, each coated with kappa-casein hairs that keep them apart. Chymosin, the enzyme in rennet, cuts the hairs at one exact bond. The bald micelles link up through calcium and the whole vat sets into a soft gel, the curd."
+    },
+    {
+      "title": "Cut, cook and drain",
+      "text": "Cutting the curd opens doors for the whey. Small cubes and hot cooking squeeze out more whey and give hard cheese. Big cubes and no cooking give soft cheese. Parmesan curd is cut to rice-grain size and cooked to about 55 °C. About nine-tenths of the milk drains away as whey."
+    },
+    {
+      "title": "Press and salt",
+      "text": "Pressing knits loose curd into one solid block. Salt slows the microbes, draws out water and adds flavour. Cheddar is salted as chips before pressing. Many other cheeses float in brine, where salt creeps inwards by diffusion at about 0.2 cm² a day, so a big wheel takes weeks to even out."
+    },
+    {
+      "title": "Flavour is made in the cave",
+      "text": "A young cheese is bland and rubbery. Over weeks to years, enzymes cut its protein and fat into small molecules with taste and smell. Temperature sets the pace. Propionic bacteria blow the holes in Emmental with carbon dioxide, and blue mould grows along needle holes that let air in."
+    },
+    {
+      "title": "One family, many cousins",
+      "text": "How much water is left and how long it ages place every cheese on one map. Mozzarella stretches because its curd is soured to about pH 5.2 and pulled into fibres. Processed cheese melts smooth because emulsifying salts take the calcium. Paneer, set with acid and heat, does not melt at all."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Casein micelle",
+      "def": "A ball of roughly 10,000 casein protein chains and calcium phosphate, about 150 nanometres wide. Cheese is built from these."
+    },
+    {
+      "term": "Rennet and chymosin",
+      "def": "Rennet is a clotting enzyme mix. Its main enzyme, chymosin, cuts kappa-casein so that micelles can join into curd."
+    },
+    {
+      "term": "Curd and whey",
+      "def": "Curd is the solid net of casein and trapped fat. Whey is the liquid that drains off with most of the water, lactose and whey protein."
+    },
+    {
+      "term": "Starter culture",
+      "def": "Lactic acid bacteria added to cheese milk. They turn lactose into lactic acid and later release enzymes that build flavour."
+    },
+    {
+      "term": "Syneresis",
+      "def": "A gel shrinking and squeezing out liquid. Cutting, cooking and stirring curd all speed it up."
+    },
+    {
+      "term": "Cheddaring",
+      "def": "Stacking and turning slabs of curd so they stretch, drain and sour before they are milled, salted and pressed."
+    },
+    {
+      "term": "Ripening",
+      "def": "Ageing cheese at a set temperature and humidity while enzymes and microbes develop its flavour and texture."
+    },
+    {
+      "term": "Proteolysis",
+      "def": "The breakdown of protein into peptides and amino acids. It softens a cheese and makes much of its taste."
+    },
+    {
+      "term": "Emulsifying salts",
+      "def": "Sodium citrate or phosphates that bind calcium, so processed cheese melts smoothly without separating."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "cheeseclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}
